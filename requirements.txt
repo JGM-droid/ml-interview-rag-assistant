@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+transformers
+torch
+notebook
+jupyter
+ipykernel
+pandas
+numpy
+scikit-learn
