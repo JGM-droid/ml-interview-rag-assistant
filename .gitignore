@@ -26,5 +26,8 @@ chromadb/
 # Windows
 Thumbs.db
 
+# Submission/export artifacts
+ml_interview_rag_assistant.zip
+
 # Ignore VS Code state from another project
 code/prototype_v1/
